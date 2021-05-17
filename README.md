@@ -7,7 +7,9 @@ MSSQL driver for jdbc https://download.microsoft.com/download/4/c/3/4c31fbc1-62c
 ## Parameters
 
 uri: 
-```jdbc:sqlserver://yourserver.database.windows.net:1433;database=AdventureWorks;user=yourusername@yourserver;password=yourpassword;encrypt=true;trustServerCertificate=false;loginTimeout=30;```
+```
+jdbc:sqlserver://yourserver.database.windows.net:1433;database=AdventureWorks;user=yourusername@yourserver;password=yourpassword;encrypt=true;trustServerCertificate=false;loginTimeout=30;
+```
 
 query:
 ```
