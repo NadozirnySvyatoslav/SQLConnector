@@ -1,1 +1,2 @@
-# SQLConnector
+# Camunda SQL Connector
+
